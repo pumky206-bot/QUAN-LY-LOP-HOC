@@ -1,0 +1,6 @@
+{
+  "name": "Quản Lý Lớp Học Ngôi Sao - Cô Bùi Thị Ra",
+  "description": "Hệ thống quản trị lớp học, học sinh, bài học, nhiệm vụ và sổ điểm điện tử dành cho giáo viên Bùi Thị Ra - Trường THCS, THPT Ngôi Sao.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
